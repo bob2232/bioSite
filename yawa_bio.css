@@ -1,0 +1,56 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#bio_text h1{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-family: ‘Quattrocento’, Georgia, “Times New Roman” serif
+}
+
+#hobby_text h1{
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    font-family: ‘Quattrocento’, Georgia, “Times New Roman” serif
+}
+#navbar{
+    overflow: hidden;
+    background-color: rgb(199, 140, 64);
+    padding: 15px 15px;
+}
+#navbar a{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 200px;
+    padding: 14px 16px;
+    
+}
+#navbar a:hover{background-color: rgb(132, 132, 243);
+    color: black;
+}
+
+#portrait_image img{
+    display: block;
+    margin: 0px auto;
+}
+p{
+    font-size: large;
+    font-family: ‘Quattrocento’, Georgia, “Times New Roman” serif  
+}
+
+#gotop{
+    text-align: right;
+    font-size: large;
+    border-style:solid;
+    border-radius: 20px 20px 20px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    padding: 10px;
+    float: right;
+    text-decoration: none;
+}
